@@ -1,0 +1,648 @@
+<Universidad>
+    <Aula>
+        <Id>70</Id>
+        <CapacidadMáxima>75</CapacidadMáxima>
+        <ListaDeReservas>
+            <Reserva>
+                <Codigo>0</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-08-23-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-08-23-18:00:00</FinDeReserva>
+                <Organización id="2">
+                    <CodigoOrg>Google</CodigoOrg>
+                    <Descipcion>Marketing</Descipcion>
+                    <EstudiantesInscriptos>20</EstudiantesInscriptos>
+                    <CantidadDeClases>5</CantidadDeClases>
+                    <CostoPorEstudiante>50000</CostoPorEstudiante>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>1</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-08-30-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-08-30-18:00:00</FinDeReserva>
+                <Organización id="2">
+                    <CodigoOrg>Google</CodigoOrg>
+                    <Descipcion>Marketing</Descipcion>
+                    <EstudiantesInscriptos>20</EstudiantesInscriptos>
+                    <CantidadDeClases>5</CantidadDeClases>
+                    <CostoPorEstudiante>50000</CostoPorEstudiante>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>2</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-08-30-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-08-30-18:00:00</FinDeReserva>
+                <Organización id="2">
+                    <CodigoOrg>Google</CodigoOrg>
+                    <Descipcion>Marketing</Descipcion>
+                    <EstudiantesInscriptos>20</EstudiantesInscriptos>
+                    <CantidadDeClases>5</CantidadDeClases>
+                    <CostoPorEstudiante>50000</CostoPorEstudiante>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>3</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-09-06-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-09-06-18:00:00</FinDeReserva>
+                <Organización id="2">
+                    <CodigoOrg>Google</CodigoOrg>
+                    <Descipcion>Marketing</Descipcion>
+                    <EstudiantesInscriptos>20</EstudiantesInscriptos>
+                    <CantidadDeClases>5</CantidadDeClases>
+                    <CostoPorEstudiante>50000</CostoPorEstudiante>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>4</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-09-13-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-09-13-18:00:00</FinDeReserva>
+                <Organización id="2">
+                    <CodigoOrg>Google</CodigoOrg>
+                    <Descipcion>Marketing</Descipcion>
+                    <EstudiantesInscriptos>20</EstudiantesInscriptos>
+                    <CantidadDeClases>5</CantidadDeClases>
+                    <CostoPorEstudiante>50000</CostoPorEstudiante>
+                </Organización>
+            </Reserva>
+        </ListaDeReservas>
+    </Aula>
+    <Aula>
+        <Id>12</Id>
+        <CapacidadMáxima>100</CapacidadMáxima>
+        <ListaDeReservas>
+            <Reserva>
+                <Codigo>0</Codigo>
+                <FechaDeReserva>2024-06-22-22:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-11-23-08:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-11-23-12:00:00</FinDeReserva>
+                <Organización id="4">
+                    <CodigoOrg>Micro</CodigoOrg>
+                    <Descipcion>Nuevas Tecnologías</Descipcion>
+                    <CantidadMaximaDeEstudiantes>80</CantidadMaximaDeEstudiantes>
+                    <Nombre>Microsoft</Nombre>
+                    <CostoAlquiler>300000</CostoAlquiler>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>1</Codigo>
+                <FechaDeReserva>2024-06-22-22:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-11-30-08:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-11-30-12:00:00</FinDeReserva>
+                <Organización id="4">
+                    <CodigoOrg>Mov</CodigoOrg>
+                    <Descipcion>Evento Recreativo</Descipcion>
+                    <CantidadMaximaDeEstudiantes>40</CantidadMaximaDeEstudiantes>
+                    <Nombre>Movistar</Nombre>
+                    <CostoAlquiler>200000</CostoAlquiler>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>2</Codigo>
+                <FechaDeReserva>2024-06-22-19:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-08-10-10:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-08-10-14:00:00</FinDeReserva>
+                <Organización id="3">
+                    <CodigoOrg>UNMDP</CodigoOrg>
+                    <Descipcion>Curso Full stack</Descipcion>
+                    <CantidadMaximaDeEstudiantes>30</CantidadMaximaDeEstudiantes>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>3</Codigo>
+                <FechaDeReserva>2024-06-22-19:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-07-22-10:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-07-22-14:00:00</FinDeReserva>
+                <Organización id="3">
+                    <CodigoOrg>Fasta</CodigoOrg>
+                    <Descipcion>Diseño web</Descipcion>
+                    <CantidadMaximaDeEstudiantes>60</CantidadMaximaDeEstudiantes>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>4</Codigo>
+                <FechaDeReserva>2024-06-22-19:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-11-11-10:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-11-11-14:00:00</FinDeReserva>
+                <Organización id="3">
+                    <CodigoOrg>UTN</CodigoOrg>
+                    <Descipcion>Arreglo de Computdoras</Descipcion>
+                    <CantidadMaximaDeEstudiantes>45</CantidadMaximaDeEstudiantes>
+                </Organización>
+            </Reserva>
+        </ListaDeReservas>
+    </Aula>
+    <Aula>
+        <Id>40</Id>
+        <CapacidadMáxima>50</CapacidadMáxima>
+        <ListaDeReservas>
+            <Reserva>
+                <Codigo>0</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-09-10-18:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-09-10-22:00:00</FinDeReserva>
+                <Organización id="2">
+                    <CodigoOrg>CodeHouse</CodigoOrg>
+                    <Descipcion>Diseño web</Descipcion>
+                    <EstudiantesInscriptos>20</EstudiantesInscriptos>
+                    <CantidadDeClases>5</CantidadDeClases>
+                    <CostoPorEstudiante>50000</CostoPorEstudiante>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>1</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-09-17-18:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-09-17-22:00:00</FinDeReserva>
+                <Organización id="2">
+                    <CodigoOrg>CodeHouse</CodigoOrg>
+                    <Descipcion>Diseño web</Descipcion>
+                    <EstudiantesInscriptos>20</EstudiantesInscriptos>
+                    <CantidadDeClases>5</CantidadDeClases>
+                    <CostoPorEstudiante>50000</CostoPorEstudiante>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>2</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-09-24-18:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-09-24-22:00:00</FinDeReserva>
+                <Organización id="2">
+                    <CodigoOrg>CodeHouse</CodigoOrg>
+                    <Descipcion>Diseño web</Descipcion>
+                    <EstudiantesInscriptos>20</EstudiantesInscriptos>
+                    <CantidadDeClases>5</CantidadDeClases>
+                    <CostoPorEstudiante>50000</CostoPorEstudiante>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>3</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-10-01-18:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-10-01-22:00:00</FinDeReserva>
+                <Organización id="2">
+                    <CodigoOrg>CodeHouse</CodigoOrg>
+                    <Descipcion>Diseño web</Descipcion>
+                    <EstudiantesInscriptos>20</EstudiantesInscriptos>
+                    <CantidadDeClases>5</CantidadDeClases>
+                    <CostoPorEstudiante>50000</CostoPorEstudiante>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>4</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-10-08-18:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-10-08-22:00:00</FinDeReserva>
+                <Organización id="2">
+                    <CodigoOrg>CodeHouse</CodigoOrg>
+                    <Descipcion>Diseño web</Descipcion>
+                    <EstudiantesInscriptos>20</EstudiantesInscriptos>
+                    <CantidadDeClases>5</CantidadDeClases>
+                    <CostoPorEstudiante>50000</CostoPorEstudiante>
+                </Organización>
+            </Reserva>
+        </ListaDeReservas>
+    </Aula>
+    <Aula>
+        <Id>187</Id>
+        <CapacidadMáxima>40</CapacidadMáxima>
+        <ListaDeReservas>
+            <Reserva>
+                <Codigo>0</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-08-01-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-08-01-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Algoritmos y estructura de datos 2</Nombre>
+                    <ComienzoDeCusada>2025-08-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-10-03-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-08-01-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-08-01-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>30</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>1</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-08-08-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-08-08-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Algoritmos y estructura de datos 2</Nombre>
+                    <ComienzoDeCusada>2025-08-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-10-03-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-08-08-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-08-08-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>30</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>2</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-08-15-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-08-15-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Algoritmos y estructura de datos 2</Nombre>
+                    <ComienzoDeCusada>2025-08-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-10-03-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-08-15-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-08-15-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>30</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>3</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-08-22-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-08-22-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Algoritmos y estructura de datos 2</Nombre>
+                    <ComienzoDeCusada>2025-08-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-10-03-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-08-22-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-08-22-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>30</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>4</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-08-29-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-08-29-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Algoritmos y estructura de datos 2</Nombre>
+                    <ComienzoDeCusada>2025-08-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-10-03-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-08-29-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-08-29-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>30</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>5</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-09-05-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-09-05-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Algoritmos y estructura de datos 2</Nombre>
+                    <ComienzoDeCusada>2025-08-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-10-03-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-09-05-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-09-05-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>30</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>6</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-09-12-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-09-12-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Algoritmos y estructura de datos 2</Nombre>
+                    <ComienzoDeCusada>2025-08-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-10-03-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-09-12-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-09-12-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>30</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>7</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-09-19-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-09-19-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Algoritmos y estructura de datos 2</Nombre>
+                    <ComienzoDeCusada>2025-08-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-10-03-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-09-19-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-09-19-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>30</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>8</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-09-26-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-09-26-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Algoritmos y estructura de datos 2</Nombre>
+                    <ComienzoDeCusada>2025-08-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-10-03-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-09-26-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-09-26-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>30</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>9</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-10-03-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-10-03-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Algoritmos y estructura de datos 2</Nombre>
+                    <ComienzoDeCusada>2025-08-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-10-03-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-10-03-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-10-03-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>30</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+        </ListaDeReservas>
+    </Aula>
+    <Aula>
+        <Id>155</Id>
+        <CapacidadMáxima>120</CapacidadMáxima>
+        <ListaDeReservas>
+            <Reserva>
+                <Codigo>0</Codigo>
+                <FechaDeReserva>2024-06-22-22:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-11-23-08:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-11-23-12:00:00</FinDeReserva>
+                <Organización id="4">
+                    <CodigoOrg>M.L.</CodigoOrg>
+                    <Descipcion>Marketing</Descipcion>
+                    <CantidadMaximaDeEstudiantes>80</CantidadMaximaDeEstudiantes>
+                    <Nombre>Mercado Libre</Nombre>
+                    <CostoAlquiler>300000</CostoAlquiler>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>1</Codigo>
+                <FechaDeReserva>2024-06-22-19:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-10-23-10:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-10-23-14:00:00</FinDeReserva>
+                <Organización id="3">
+                    <CodigoOrg>Claro</CodigoOrg>
+                    <Descipcion>Celulares</Descipcion>
+                    <CantidadMaximaDeEstudiantes>100</CantidadMaximaDeEstudiantes>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>2</Codigo>
+                <FechaDeReserva>2024-06-02-22:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-11-23-08:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-11-23-12:00:00</FinDeReserva>
+                <Organización id="4">
+                    <CodigoOrg>Mov</CodigoOrg>
+                    <Descipcion>Presentación Nuevos Modelos</Descipcion>
+                    <CantidadMaximaDeEstudiantes>80</CantidadMaximaDeEstudiantes>
+                    <Nombre>Movistar</Nombre>
+                    <CostoAlquiler>300000</CostoAlquiler>
+                </Organización>
+            </Reserva>
+        </ListaDeReservas>
+    </Aula>
+    <Aula>
+        <Id>120</Id>
+        <CapacidadMáxima>60</CapacidadMáxima>
+        <ListaDeReservas>
+            <Reserva>
+                <Codigo>0</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-08-01-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-08-01-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Redes y Teleprocesos 1</Nombre>
+                    <ComienzoDeCusada>2025-08-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-09-29-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-08-01-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-08-01-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>40</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>1</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-08-08-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-08-08-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Redes y Teleprocesos 1</Nombre>
+                    <ComienzoDeCusada>2025-08-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-09-29-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-08-08-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-08-08-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>40</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>2</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-08-15-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-08-15-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Redes y Teleprocesos 1</Nombre>
+                    <ComienzoDeCusada>2025-08-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-09-29-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-08-15-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-08-15-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>40</CantidadDeAlumnos>
+            </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>3</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-08-22-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-08-22-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Redes y Teleprocesos 1</Nombre>
+                    <ComienzoDeCusada>2025-08-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-09-29-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-08-22-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-08-22-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>40</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>4</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-08-29-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-08-29-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Redes y Teleprocesos 1</Nombre>
+                    <ComienzoDeCusada>2025-08-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-09-29-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-08-29-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-08-29-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>40</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+        </ListaDeReservas>
+    </Aula>
+    <Aula>
+        <Id>250</Id>
+        <CapacidadMáxima>35</CapacidadMáxima>
+        <ListaDeReservas>
+            <Reserva>
+                <Codigo>0</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-07-01-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-07-01-18:00:00</FinDeReserva>
+                <Organización id="2">
+                    <CodigoOrg>Udemy</CodigoOrg>
+                    <Descipcion>Programación Orientada a objetos</Descipcion>
+                    <EstudiantesInscriptos>20</EstudiantesInscriptos>
+                    <CantidadDeClases>4</CantidadDeClases>
+                    <CostoPorEstudiante>50000</CostoPorEstudiante>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>1</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-07-08-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-07-08-18:00:00</FinDeReserva>
+                <Organización id="2">
+                    <CodigoOrg>Udemy</CodigoOrg>
+                    <Descipcion>Programación Orientada a objetos</Descipcion>
+                    <EstudiantesInscriptos>20</EstudiantesInscriptos>
+                    <CantidadDeClases>4</CantidadDeClases>
+                    <CostoPorEstudiante>50000</CostoPorEstudiante>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>2</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-07-15-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-07-15-18:00:00</FinDeReserva>
+                <Organización id="2">
+                    <CodigoOrg>Udemy</CodigoOrg>
+                    <Descipcion>Programación Orientada a objetos</Descipcion>
+                    <EstudiantesInscriptos>20</EstudiantesInscriptos>
+                    <CantidadDeClases>4</CantidadDeClases>
+                    <CostoPorEstudiante>50000</CostoPorEstudiante>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>3</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-07-22-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-07-22-18:00:00</FinDeReserva>
+                <Organización id="2">
+                    <CodigoOrg>Udemy</CodigoOrg>
+                    <Descipcion>Programación Orientada a objetos</Descipcion>
+                    <EstudiantesInscriptos>20</EstudiantesInscriptos>
+                    <CantidadDeClases>4</CantidadDeClases>
+                    <CostoPorEstudiante>50000</CostoPorEstudiante>
+                </Organización>
+            </Reserva>
+        </ListaDeReservas>
+    </Aula>
+    <Aula>
+        <Id>225</Id>
+        <CapacidadMáxima>55</CapacidadMáxima>
+        <ListaDeReservas>
+            <Reserva>
+                <Codigo>0</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-11-01-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-11-01-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Matemática</Nombre>
+                    <ComienzoDeCusada>2025-11-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-11-29-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-11-01-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-11-01-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>40</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>1</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-11-08-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-11-08-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Matemática</Nombre>
+                    <ComienzoDeCusada>2025-11-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-11-29-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-11-08-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-11-08-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>40</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>2</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-11-15-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-11-15-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Matemática</Nombre>
+                    <ComienzoDeCusada>2025-11-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-11-29-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-11-15-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-11-15-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>40</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>3</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-11-22-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-11-22-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Matemática</Nombre>
+                    <ComienzoDeCusada>2025-11-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-11-29-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-11-22-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-11-22-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>40</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+            <Reserva>
+                <Codigo>4</Codigo>
+                <FechaDeReserva>2024-06-02-14:00:00</FechaDeReserva>
+                <ComienzoDeReserva>2025-11-29-14:00:00</ComienzoDeReserva>
+                <FinDeReserva>2025-11-29-18:00:00</FinDeReserva>
+                <Organización id="1">
+                    <CodigoOrg>Caece</CodigoOrg>
+                    <Nombre>Matemática</Nombre>
+                    <ComienzoDeCusada>2025-11-01-14:00:00</ComienzoDeCusada>
+                    <FinDeCursada>2025-11-29-18:00:00</FinDeCursada>
+                    <ComienzoDeClase>2025-11-29-14:00:00</ComienzoDeClase>
+                    <FinDeClase>2025-11-29-18:00:00</FinDeClase>
+                    <DiaDeLaSemana>3</DiaDeLaSemana>
+                    <CantidadDeAlumnos>40</CantidadDeAlumnos>
+                </Organización>
+            </Reserva>
+        </ListaDeReservas>
+    </Aula>
+</Universidad>

@@ -1,0 +1,10 @@
+Reporte de monto recaudado por aula:
+-----------------------------------
+12Aula - Monto recaudado = 500000
+40Aula - Monto recaudado = 1000000
+70Aula - Monto recaudado = 1000000
+120Aula - Monto recaudado = 0
+155Aula - Monto recaudado = 600000
+187Aula - Monto recaudado = 0
+225Aula - Monto recaudado = 0
+250Aula - Monto recaudado = 1000000

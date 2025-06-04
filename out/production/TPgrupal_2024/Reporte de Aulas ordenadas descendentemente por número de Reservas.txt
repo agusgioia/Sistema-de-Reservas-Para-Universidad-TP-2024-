@@ -1,0 +1,102 @@
+Reporte de aulas por cantidad de reservas en forma descendente:
+-----------------------------------
+Listado de aulas en orden descendiente: 
+Classroom{IdNumber=187, MaximumCapacity=40, BookingList=[
+ 
+ Booking{NumberCode=0, BookingDate=2024-06-02T14:00, StartOfClass=2024-08-01T14:00, EndOfClass=2024-08-01T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Algoritmos y estructura de datos 2', StartOfSubject=2024-08-01T14:00, EndOfSubject=2024-10-03T18:00, StartOfClass=2024-08-01T14:00, EndOfClass=2024-08-01T18:00, DayOfTheWeek=3, StudentsAmount=30}}, 
+ 
+ Booking{NumberCode=1, BookingDate=2024-06-02T14:00, StartOfClass=2024-08-08T14:00, EndOfClass=2024-08-08T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Algoritmos y estructura de datos 2', StartOfSubject=2024-08-01T14:00, EndOfSubject=2024-10-03T18:00, StartOfClass=2024-08-08T14:00, EndOfClass=2024-08-08T18:00, DayOfTheWeek=3, StudentsAmount=30}}, 
+ 
+ Booking{NumberCode=2, BookingDate=2024-06-02T14:00, StartOfClass=2024-08-15T14:00, EndOfClass=2024-08-15T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Algoritmos y estructura de datos 2', StartOfSubject=2024-08-01T14:00, EndOfSubject=2024-10-03T18:00, StartOfClass=2024-08-15T14:00, EndOfClass=2024-08-15T18:00, DayOfTheWeek=3, StudentsAmount=30}}, 
+ 
+ Booking{NumberCode=3, BookingDate=2024-06-02T14:00, StartOfClass=2024-08-22T14:00, EndOfClass=2024-08-22T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Algoritmos y estructura de datos 2', StartOfSubject=2024-08-01T14:00, EndOfSubject=2024-10-03T18:00, StartOfClass=2024-08-22T14:00, EndOfClass=2024-08-22T18:00, DayOfTheWeek=3, StudentsAmount=30}}, 
+ 
+ Booking{NumberCode=4, BookingDate=2024-06-02T14:00, StartOfClass=2024-08-29T14:00, EndOfClass=2024-08-29T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Algoritmos y estructura de datos 2', StartOfSubject=2024-08-01T14:00, EndOfSubject=2024-10-03T18:00, StartOfClass=2024-08-29T14:00, EndOfClass=2024-08-29T18:00, DayOfTheWeek=3, StudentsAmount=30}}, 
+ 
+ Booking{NumberCode=5, BookingDate=2024-06-02T14:00, StartOfClass=2024-09-05T14:00, EndOfClass=2024-09-05T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Algoritmos y estructura de datos 2', StartOfSubject=2024-08-01T14:00, EndOfSubject=2024-10-03T18:00, StartOfClass=2024-09-05T14:00, EndOfClass=2024-09-05T18:00, DayOfTheWeek=3, StudentsAmount=30}}, 
+ 
+ Booking{NumberCode=6, BookingDate=2024-06-02T14:00, StartOfClass=2024-09-12T14:00, EndOfClass=2024-09-12T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Algoritmos y estructura de datos 2', StartOfSubject=2024-08-01T14:00, EndOfSubject=2024-10-03T18:00, StartOfClass=2024-09-12T14:00, EndOfClass=2024-09-12T18:00, DayOfTheWeek=3, StudentsAmount=30}}, 
+ 
+ Booking{NumberCode=7, BookingDate=2024-06-02T14:00, StartOfClass=2024-09-19T14:00, EndOfClass=2024-09-19T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Algoritmos y estructura de datos 2', StartOfSubject=2024-08-01T14:00, EndOfSubject=2024-10-03T18:00, StartOfClass=2024-09-19T14:00, EndOfClass=2024-09-19T18:00, DayOfTheWeek=3, StudentsAmount=30}}, 
+ 
+ Booking{NumberCode=8, BookingDate=2024-06-02T14:00, StartOfClass=2024-09-26T14:00, EndOfClass=2024-09-26T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Algoritmos y estructura de datos 2', StartOfSubject=2024-08-01T14:00, EndOfSubject=2024-10-03T18:00, StartOfClass=2024-09-26T14:00, EndOfClass=2024-09-26T18:00, DayOfTheWeek=3, StudentsAmount=30}}, 
+ 
+ Booking{NumberCode=9, BookingDate=2024-06-02T14:00, StartOfClass=2024-10-03T14:00, EndOfClass=2024-10-03T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Algoritmos y estructura de datos 2', StartOfSubject=2024-08-01T14:00, EndOfSubject=2024-10-03T18:00, StartOfClass=2024-10-03T14:00, EndOfClass=2024-10-03T18:00, DayOfTheWeek=3, StudentsAmount=30}}]}
+
+Classroom{IdNumber=12, MaximumCapacity=100, BookingList=[
+ 
+ Booking{NumberCode=0, BookingDate=2024-06-22T22:00, StartOfClass=2024-11-23T08:00, EndOfClass=2024-11-23T12:00, BookingOwner=Organization{Code='Micro'}Event{EventDescription='Nuevas Tecnologías', MaxParticipants=80}ExternEvent{RentCost=300000.0, OrganizationName='Microsoft'}}, 
+ 
+ Booking{NumberCode=1, BookingDate=2024-06-22T22:00, StartOfClass=2024-11-30T08:00, EndOfClass=2024-11-30T12:00, BookingOwner=Organization{Code='Mov'}Event{EventDescription='Evento Recreativo', MaxParticipants=40}ExternEvent{RentCost=200000.0, OrganizationName='Movistar'}}, 
+ 
+ Booking{NumberCode=2, BookingDate=2024-06-22T19:00, StartOfClass=2024-08-10T10:00, EndOfClass=2024-08-10T14:00, BookingOwner=Organization{Code='UNMDP'}Event{EventDescription='Curso Full stack', MaxParticipants=30}}, 
+ 
+ Booking{NumberCode=3, BookingDate=2024-06-22T19:00, StartOfClass=2024-07-22T10:00, EndOfClass=2024-07-22T14:00, BookingOwner=Organization{Code='Fasta'}Event{EventDescription='Diseño web', MaxParticipants=60}}, 
+ 
+ Booking{NumberCode=4, BookingDate=2024-06-22T19:00, StartOfClass=2024-11-11T10:00, EndOfClass=2024-11-11T14:00, BookingOwner=Organization{Code='UTN'}Event{EventDescription='Arreglo de Computdoras', MaxParticipants=45}}]}
+
+Classroom{IdNumber=40, MaximumCapacity=50, BookingList=[
+ 
+ Booking{NumberCode=0, BookingDate=2024-06-02T14:00, StartOfClass=2024-09-10T18:00, EndOfClass=2024-09-10T22:00, BookingOwner=Organization{Code='CodeHouse'}ExtensionCourse{CourseDescription='Diseño web', InscriptedStudents=20, AmountOfClasses=5, CostPerStudent=50000.0}}, 
+ 
+ Booking{NumberCode=1, BookingDate=2024-06-02T14:00, StartOfClass=2024-09-17T18:00, EndOfClass=2024-09-17T22:00, BookingOwner=Organization{Code='CodeHouse'}ExtensionCourse{CourseDescription='Diseño web', InscriptedStudents=20, AmountOfClasses=5, CostPerStudent=50000.0}}, 
+ 
+ Booking{NumberCode=2, BookingDate=2024-06-02T14:00, StartOfClass=2024-09-24T18:00, EndOfClass=2024-09-24T22:00, BookingOwner=Organization{Code='CodeHouse'}ExtensionCourse{CourseDescription='Diseño web', InscriptedStudents=20, AmountOfClasses=5, CostPerStudent=50000.0}}, 
+ 
+ Booking{NumberCode=3, BookingDate=2024-06-02T14:00, StartOfClass=2024-10-01T18:00, EndOfClass=2024-10-01T22:00, BookingOwner=Organization{Code='CodeHouse'}ExtensionCourse{CourseDescription='Diseño web', InscriptedStudents=20, AmountOfClasses=5, CostPerStudent=50000.0}}, 
+ 
+ Booking{NumberCode=4, BookingDate=2024-06-02T14:00, StartOfClass=2024-10-08T18:00, EndOfClass=2024-10-08T22:00, BookingOwner=Organization{Code='CodeHouse'}ExtensionCourse{CourseDescription='Diseño web', InscriptedStudents=20, AmountOfClasses=5, CostPerStudent=50000.0}}]}
+
+Classroom{IdNumber=120, MaximumCapacity=60, BookingList=[
+ 
+ Booking{NumberCode=0, BookingDate=2024-06-02T14:00, StartOfClass=2024-08-01T14:00, EndOfClass=2024-08-01T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Redes y Teleprocesos 1', StartOfSubject=2024-08-01T14:00, EndOfSubject=2024-09-29T18:00, StartOfClass=2024-08-01T14:00, EndOfClass=2024-08-01T18:00, DayOfTheWeek=3, StudentsAmount=40}}, 
+ 
+ Booking{NumberCode=1, BookingDate=2024-06-02T14:00, StartOfClass=2024-08-08T14:00, EndOfClass=2024-08-08T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Redes y Teleprocesos 1', StartOfSubject=2024-08-01T14:00, EndOfSubject=2024-09-29T18:00, StartOfClass=2024-08-08T14:00, EndOfClass=2024-08-08T18:00, DayOfTheWeek=3, StudentsAmount=40}}, 
+ 
+ Booking{NumberCode=2, BookingDate=2024-06-02T14:00, StartOfClass=2024-08-15T14:00, EndOfClass=2024-08-15T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Redes y Teleprocesos 1', StartOfSubject=2024-08-01T14:00, EndOfSubject=2024-09-29T18:00, StartOfClass=2024-08-15T14:00, EndOfClass=2024-08-15T18:00, DayOfTheWeek=3, StudentsAmount=40}}, 
+ 
+ Booking{NumberCode=3, BookingDate=2024-06-02T14:00, StartOfClass=2024-08-22T14:00, EndOfClass=2024-08-22T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Redes y Teleprocesos 1', StartOfSubject=2024-08-01T14:00, EndOfSubject=2024-09-29T18:00, StartOfClass=2024-08-22T14:00, EndOfClass=2024-08-22T18:00, DayOfTheWeek=3, StudentsAmount=40}}, 
+ 
+ Booking{NumberCode=4, BookingDate=2024-06-02T14:00, StartOfClass=2024-08-29T14:00, EndOfClass=2024-08-29T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Redes y Teleprocesos 1', StartOfSubject=2024-08-01T14:00, EndOfSubject=2024-09-29T18:00, StartOfClass=2024-08-29T14:00, EndOfClass=2024-08-29T18:00, DayOfTheWeek=3, StudentsAmount=40}}]}
+
+Classroom{IdNumber=225, MaximumCapacity=55, BookingList=[
+ 
+ Booking{NumberCode=0, BookingDate=2024-06-02T14:00, StartOfClass=2024-11-01T14:00, EndOfClass=2024-11-01T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Matemática', StartOfSubject=2024-11-01T14:00, EndOfSubject=2024-11-29T18:00, StartOfClass=2024-11-01T14:00, EndOfClass=2024-11-01T18:00, DayOfTheWeek=3, StudentsAmount=40}}, 
+ 
+ Booking{NumberCode=1, BookingDate=2024-06-02T14:00, StartOfClass=2024-11-08T14:00, EndOfClass=2024-11-08T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Matemática', StartOfSubject=2024-11-01T14:00, EndOfSubject=2024-11-29T18:00, StartOfClass=2024-11-08T14:00, EndOfClass=2024-11-08T18:00, DayOfTheWeek=3, StudentsAmount=40}}, 
+ 
+ Booking{NumberCode=2, BookingDate=2024-06-02T14:00, StartOfClass=2024-11-15T14:00, EndOfClass=2024-11-15T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Matemática', StartOfSubject=2024-11-01T14:00, EndOfSubject=2024-11-29T18:00, StartOfClass=2024-11-15T14:00, EndOfClass=2024-11-15T18:00, DayOfTheWeek=3, StudentsAmount=40}}, 
+ 
+ Booking{NumberCode=3, BookingDate=2024-06-02T14:00, StartOfClass=2024-11-22T14:00, EndOfClass=2024-11-22T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Matemática', StartOfSubject=2024-11-01T14:00, EndOfSubject=2024-11-29T18:00, StartOfClass=2024-11-22T14:00, EndOfClass=2024-11-22T18:00, DayOfTheWeek=3, StudentsAmount=40}}, 
+ 
+ Booking{NumberCode=4, BookingDate=2024-06-02T14:00, StartOfClass=2024-11-29T14:00, EndOfClass=2024-11-29T18:00, BookingOwner=Organization{Code='Caece'}Subject{SubjectName='Matemática', StartOfSubject=2024-11-01T14:00, EndOfSubject=2024-11-29T18:00, StartOfClass=2024-11-29T14:00, EndOfClass=2024-11-29T18:00, DayOfTheWeek=3, StudentsAmount=40}}]}
+
+Classroom{IdNumber=70, MaximumCapacity=75, BookingList=[
+ 
+ Booking{NumberCode=1, BookingDate=2024-06-02T14:00, StartOfClass=2024-08-30T14:00, EndOfClass=2024-08-30T18:00, BookingOwner=Organization{Code='Google'}ExtensionCourse{CourseDescription='Marketing', InscriptedStudents=20, AmountOfClasses=5, CostPerStudent=50000.0}}, 
+ 
+ Booking{NumberCode=2, BookingDate=2024-06-02T14:00, StartOfClass=2024-08-30T14:00, EndOfClass=2024-08-30T18:00, BookingOwner=Organization{Code='Google'}ExtensionCourse{CourseDescription='Marketing', InscriptedStudents=20, AmountOfClasses=5, CostPerStudent=50000.0}}, 
+ 
+ Booking{NumberCode=3, BookingDate=2024-06-02T14:00, StartOfClass=2024-09-06T14:00, EndOfClass=2024-09-06T18:00, BookingOwner=Organization{Code='Google'}ExtensionCourse{CourseDescription='Marketing', InscriptedStudents=20, AmountOfClasses=5, CostPerStudent=50000.0}}, 
+ 
+ Booking{NumberCode=4, BookingDate=2024-06-02T14:00, StartOfClass=2024-09-13T14:00, EndOfClass=2024-09-13T18:00, BookingOwner=Organization{Code='Google'}ExtensionCourse{CourseDescription='Marketing', InscriptedStudents=20, AmountOfClasses=5, CostPerStudent=50000.0}}]}
+
+Classroom{IdNumber=250, MaximumCapacity=35, BookingList=[
+ 
+ Booking{NumberCode=0, BookingDate=2024-06-02T14:00, StartOfClass=2024-07-01T14:00, EndOfClass=2024-07-01T18:00, BookingOwner=Organization{Code='Udemy'}ExtensionCourse{CourseDescription='Programación Orientada a objetos', InscriptedStudents=20, AmountOfClasses=4, CostPerStudent=50000.0}}, 
+ 
+ Booking{NumberCode=1, BookingDate=2024-06-02T14:00, StartOfClass=2024-07-08T14:00, EndOfClass=2024-07-08T18:00, BookingOwner=Organization{Code='Udemy'}ExtensionCourse{CourseDescription='Programación Orientada a objetos', InscriptedStudents=20, AmountOfClasses=4, CostPerStudent=50000.0}}, 
+ 
+ Booking{NumberCode=2, BookingDate=2024-06-02T14:00, StartOfClass=2024-07-15T14:00, EndOfClass=2024-07-15T18:00, BookingOwner=Organization{Code='Udemy'}ExtensionCourse{CourseDescription='Programación Orientada a objetos', InscriptedStudents=20, AmountOfClasses=4, CostPerStudent=50000.0}}, 
+ 
+ Booking{NumberCode=3, BookingDate=2024-06-02T14:00, StartOfClass=2024-07-22T14:00, EndOfClass=2024-07-22T18:00, BookingOwner=Organization{Code='Udemy'}ExtensionCourse{CourseDescription='Programación Orientada a objetos', InscriptedStudents=20, AmountOfClasses=4, CostPerStudent=50000.0}}]}
+
+Classroom{IdNumber=155, MaximumCapacity=120, BookingList=[
+ 
+ Booking{NumberCode=0, BookingDate=2024-06-22T22:00, StartOfClass=2024-11-23T08:00, EndOfClass=2024-11-23T12:00, BookingOwner=Organization{Code='M.L.'}Event{EventDescription='Marketing', MaxParticipants=80}ExternEvent{RentCost=300000.0, OrganizationName='Mercado Libre'}}, 
+ 
+ Booking{NumberCode=1, BookingDate=2024-06-22T19:00, StartOfClass=2024-10-23T10:00, EndOfClass=2024-10-23T14:00, BookingOwner=Organization{Code='Claro'}Event{EventDescription='Celulares', MaxParticipants=100}}, 
+ 
+ Booking{NumberCode=2, BookingDate=2024-06-02T22:00, StartOfClass=2024-11-23T08:00, EndOfClass=2024-11-23T12:00, BookingOwner=Organization{Code='Mov'}Event{EventDescription='Presentación Nuevos Modelos', MaxParticipants=80}ExternEvent{RentCost=300000.0, OrganizationName='Movistar'}}]}
+
+La cantidad de reservas promedio por aula fue = 5.125

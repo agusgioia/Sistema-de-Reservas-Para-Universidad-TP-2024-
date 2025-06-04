@@ -1,0 +1,5 @@
+Reporte de monto recaudado por piso:
+-----------------------------------
+0 piso - Monto Recaudado = 9500000
+1 piso - Monto Recaudado = 600000
+2 piso - Monto Recaudado = 4000000
